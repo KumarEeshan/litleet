@@ -8,6 +8,7 @@ QNA
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KumarEeshan/litleet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KumarEeshan/litleet/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/KumarEeshan/litleet/tree/master/0088-merge-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KumarEeshan/litleet/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KumarEeshan/litleet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -17,6 +18,7 @@ QNA
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/KumarEeshan/litleet/tree/master/0088-merge-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KumarEeshan/litleet/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -48,4 +50,5 @@ QNA
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KumarEeshan/litleet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KumarEeshan/litleet/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/KumarEeshan/litleet/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
